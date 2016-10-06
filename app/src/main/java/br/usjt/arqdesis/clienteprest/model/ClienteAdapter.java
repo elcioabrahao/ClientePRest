@@ -31,8 +31,6 @@ public class ClienteAdapter extends BaseAdapter
     Activity context;
     List<Cliente> clientes;
 
-
-
     public ClienteAdapter(Activity context, List<Cliente> clientes){
         this.context = context;
         this.clientes = clientes;

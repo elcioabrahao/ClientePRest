@@ -34,7 +34,6 @@ public class ListaClientesActivity extends AppCompatActivity {
     ListView listView;
     ProgressDialog progressDialog;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -105,5 +104,4 @@ public class ListaClientesActivity extends AppCompatActivity {
             }
         };
     }
-
 }
